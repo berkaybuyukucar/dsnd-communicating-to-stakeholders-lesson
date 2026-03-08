@@ -30,6 +30,7 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 -There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
+**Exercise 5.5 Githubcheck.
 **This note was updated on 08.03.26
 
 ## Results<a name="results"></a>
